@@ -1,0 +1,49 @@
+/*font-family: 'Oswald', sans-serif;
+font-family: 'Amatic SC', cursive;
+font-family: 'Cinzel', serif;*/
+html {
+  background-color: #F1F1EE;
+}
+
+body {
+  font-family: sans-serif;
+  color: #4a4a4a;
+}
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 40px;
+}
+
+.profilepic {
+  width: 250px;
+  height: 250px;
+}
+
+.contact {
+  width: 30px;
+  height: 30px;
+}
+
+.a:link {
+  display: inline-block;
+  background-color: #4a4a4a;
+  color: #FFFFFF;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin-left: 20px;
+  opacity: 0.9;
+}
+.a:visited {
+  display: inline-block;
+  background-color: #c9c2c1;
+  color: #FFFFFF;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin-left: 20px;
+  opacity: 0.9;
+}
